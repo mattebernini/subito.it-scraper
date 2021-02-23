@@ -64,4 +64,4 @@ if new_link_annuni:
 else:
     print("nessun nuovo annuncio :( ")
 
-input("...")
+input("... alla prossima!")
