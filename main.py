@@ -65,3 +65,5 @@ else:
     print("nessun nuovo annuncio :( ")
 
 input("... alla prossima!")
+
+# fine
